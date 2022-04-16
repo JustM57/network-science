@@ -16,7 +16,9 @@ Topics:
 7. [Node classification](assignment_node_classification/assignment.ipynb)
 8. [Link prediction](assignment_link_prediction/assignment.ipynb)
 9. [Node embedding](assignment_node_embedding/assignment.ipynb)
+10. [Graph neural networks](assignment_gnn/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
-1. [Network Generation](competition_network_generation/competition.ipynb)
+1. [Network generation](competition_network_generation/competition.ipynb)
 2. [Marketing campaign](competition_marketing_campaign/competition.ipynb)
+3. Link prediction
